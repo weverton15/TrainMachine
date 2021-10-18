@@ -1,0 +1,362 @@
+Abrantes
+Adémia
+Afife
+Agualva-Cacém
+Aguda
+Aguim
+Albergaria dos Doze
+Albufeira-Ferreiras
+Alcaide
+Alcains
+Alcaria
+Alcaçovas
+Alcântara-Mar
+Alcântara-Terra
+Aldeia
+Alegria
+Alfarelos
+Alferrarede
+Algoz
+Algueirão
+Algés
+Alhandra
+Alhos Vedros
+Almourol
+Alpedrinha
+Alvarães
+Alvega-Ortiga
+Alverca
+Alvito
+Amadora
+Ameal
+Aregos
+Areia-Darque
+Arentim
+Areosa
+Arronches
+Assumar
+Avanca
+Aveiro
+Aveleda
+Azambuja
+Baixa da Banheira
+Baraçal
+Barca da Amieira-Envendos
+Barcelos
+Barqueiros
+Barquinha
+Barragem de Belver
+Barreiro
+Barreiro-A
+Barrimau
+Barroselas
+Beja
+Belver-Gavião
+Belém
+Bemposta
+Bencanta
+Benfica
+Benquerenças
+Bobadela
+Boliqueime
+Bombarral
+Braga
+Braço de Prata
+Bustelo
+Cabeda
+Cacela
+Cacia
+Cais do Sodré
+Caldas da Rainha
+Caldas de Moledo
+Caminha
+Campolide
+Canas-Felgueira
+Canelas
+Caniços
+Carapeços
+Carcavelos
+Carrascal-Delongo
+Carregado
+Carregal do Sal
+Carreira
+Carreço
+Carvalha
+Carvalheira-Maceda
+Carvalhos de Figueiredo
+Casa Branca
+Casais
+Cascais
+Castanheira do Ribatejo
+Castelejo
+Castelo Branco
+Castelo Novo
+Caxarias
+Caxias
+Caíde
+Celorico da Beira
+Cerdeira
+Chança
+Coimbra
+Coimbra-B
+Coimbrões
+Contumil
+Cortegaça
+Couto de Cambeses
+Covas
+Covelinhas
+Covilhã
+Crato
+Cruz Quebrada
+Cuba
+Cuca
+Curia
+Curvaceiras
+Cête
+Darque
+Donas
+Durrães
+Elvas
+Entrecampos
+Entroncamento
+Ermesinde
+Ermida
+Ermidas Sado
+Esmeriz
+Esmoriz
+Espadanal da Azambuja
+Espadaneira
+Espinho
+Esqueiro
+Estarreja
+Estoril
+Famalicão
+Faro
+Fatela-Penamacor
+Fernando Pó
+Ferradosa
+Ferreiros
+Ferrão
+Figueira da Foz
+Formoselha
+Fornos de Algodres
+Francelos
+Fratel
+Freineda
+Freixo de Numão
+Funcheira
+Fundão
+Fungalvaz
+Fuseta-A
+Fátima
+Gata
+General Torres
+Giesteira
+Godim
+Gondarém
+Gouveia
+Granja
+Grândola
+Guarda
+Guimarães
+Irivo
+Juncal
+Lagos
+Lamarosa
+Lapa do Lobo
+Lardosa
+Lavradio
+Leandro
+Leiria
+Lisboa Oriente
+Lisboa Santa Apolónia
+Litém
+Livração
+Lordelo
+Loulé
+Louro
+Lousado
+Luso - Buçaco
+Madalena
+Mangualde
+Marco de Canaveses
+Marvila
+Massamá-Barcarena
+Mato de Miranda
+Mazagão
+Mealhada
+Meia-Praia
+Meinedo
+Mercês
+Midões
+Mira Sintra-Meleças
+Miramar
+Mirão
+Miuzela
+Mogofores
+Moimenta-Alcafache
+Moita
+Moledo do Minho
+Monte Abraão
+Monte de Lobos
+Monte Estoril
+Monte Gordo
+Mortágua
+Moscavide
+Mosteirô
+Mouquim
+Mouriscas-A
+Nelas
+Nespereira
+Nine
+Oeiras
+Oiã
+Oleiros
+Olhão
+Oliveira
+Oliveira do Bairro
+Oliveirinha-Cabanas
+Ovar
+Paialvo
+Pala
+Palmela
+Pampilhosa
+Papízios
+Parada
+Paraimo-Sangalhos
+Paramos
+Parede
+Paredes
+Paço de Arcos
+Pegões
+Pelariga
+Penafiel
+Penteado
+Pereira
+Pereirinhas
+Pinhal Novo
+Pinhão
+Poceirão
+Pocinho
+Pombal
+Ponte de Sor
+Porta Nova
+Portalegre
+Portela
+Portela de Sintra
+Portimão
+Porto Campanhã
+Porto Rei
+Porto São Bento
+Pragal
+Praia do Ribatejo
+Praias do Sado
+Praça do Quebedo
+Póvoa
+Queluz-Belas
+Quintans
+Reboleira
+Recarei-Sobreira
+Recesinhos
+Rede
+Reguengo - Vale da Pedra - Pontevel
+Retaxo
+Riachos - Torres Novas - Golegã
+Rio de Mouro
+Rio Tinto
+Rochoso
+Rodão
+Roma-Areeiro
+Rossio
+Ruílhe
+Régua
+Sacavém
+Salreu
+Santa Cita
+Santa Comba Dão
+Santa Cruz Damaia
+Santa Eulália-A
+Santa Iria
+Santa Margarida
+Santana-Cartaxo
+Santarém
+Santo Amaro de Oeiras
+Santo Tirso
+Santos
+Sarnadas
+Seixas
+Seiça-Ourém
+Senhora da Agonia
+Senhora das Neves
+Sete Rios
+Setil
+Setúbal
+Silva
+Silvalde
+Silves
+Simões
+Sintra
+Soalheira
+Soito
+Soudos - Vila Nova
+Soure
+Souselas
+Suzão
+São Frutuoso
+São João das Craveiras
+São João do Estoril
+São Martinho do Campo
+São Pedro da Torre
+São Pedro do Estoril
+São Romão
+Tadim
+Tamel
+Tancos
+Taveiro
+Tavira
+Terronhas
+Tojeirinha
+Tomar
+Torre das Vargens
+Torres Vedras
+Tortosendo
+Tramagal
+Trancoso
+Travagem
+Trofa
+Tua
+Tunes
+Vacariça
+Valadares
+Vale de Figueira
+Vale de Prazeres
+Vale de Santarém
+Valença
+Valongo
+Vargelas
+Venda do Alcaide
+Vendas Novas
+Vermoil
+Verride
+Vesúvio
+Viana do Castelo
+Vila das Aves
+Vila Fernando
+Vila Franca das Naves
+Vila Franca de Xira
+Vila Meã
+Vila Nova da Baronia
+Vila Nova da Rainha
+Vila Nova de Anços
+Vila Nova de Cerveira
+Vila Nova de Gaia - Devesas
+Vila Pouca do Campo
+Vila Real de Santo António
+Vilar Formoso
+Vilela-Fornos
+Virtudes
+Vizela
+Válega
+Águas Santas / Palmilheira
+Âncora-Praia
+Évora
